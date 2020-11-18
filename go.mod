@@ -3,7 +3,6 @@ module free5gc
 go 1.14
 
 require (
-	git.cs.nctu.edu.tw/calee/sctp v1.0.0
 	github.com/aead/cmac v0.0.0-20160719120800-7af84192f0b1
 	github.com/antihax/optional v1.0.0
 	github.com/antonfisher/nested-logrus-formatter v1.2.0
